@@ -1,1 +1,1 @@
-web: gunicorn baton.wsgi --log-file -
+web: gunicorn kakao.wsgi --log-file -
